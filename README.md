@@ -1,6 +1,14 @@
 # AI-and-GameProgramming
 
 # Paint Brush Tool
+주요 기능
+- BMP File Read & Write
+- Edge Detection
+- YCbCr Translation
+- HSV Translation
+- CMKY Translation
+- PaintBrush Tool
+
 
 ![image](https://github.com/Imeamangryang/AI-and-GameProgramming/assets/100024733/032268e8-954b-4f87-b9e4-2124882b7c66)
 ![image](https://github.com/Imeamangryang/AI-and-GameProgramming/assets/100024733/07ed43de-feee-4935-bee3-f6eb36ae596d)
